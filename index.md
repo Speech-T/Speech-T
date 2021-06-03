@@ -1,10 +1,4 @@
-+++
-date = 2021-06-03T23:35:23+08:00
-title = "Speech-T: Transducer for Text to Speech and Beyond"
-tags = ["Speech"]
-categories = ["Speech synthesis"]
-
-+++
+# Speech-T: Transducer for Text to Speech and Beyond
 
 ## Abstract
 

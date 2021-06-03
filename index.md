@@ -24,7 +24,7 @@ All of the audio samples use Parallel WaveGAN (PWG) as vocoder.
 </tbody></table>
 
 
-*This is best furthered by the avoidance of irrational swellings and spiky projections, and by the using of careful purity of line.*
+*Even the Caslon type when enlarged shows great shortcomings in this respect.*
 
 <table><thead>
 <tr>
@@ -33,9 +33,57 @@ All of the audio samples use Parallel WaveGAN (PWG) as vocoder.
 <th style="text-align: center">Speech-T</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><audio controls="controls" ><source src="static/audio/gt1.wav" autoplay/></audio></td>
-<td style="text-align: center"><audio controls="controls" ><source src="static/audio/tt1.wav" autoplay/></audio></td>
-<td style="text-align: center"><audio controls="controls" ><source src="static/audio/st1.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/gt2.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/tt2.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/st2.wav" autoplay/></audio></td>
+</tr>
+</tbody></table>
+
+
+*There is a grossness in the upper finishings of letters like the c, the a, and so on.*
+
+<table><thead>
+<tr>
+<th style="text-align: center">GT+Vocoder </th>
+<th style="text-align: center">TransformerTTS</th>
+<th style="text-align: center">Speech-T</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/gt3.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/tt3.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/st3.wav" autoplay/></audio></td>
+</tr>
+</tbody></table>
+
+
+*In short, it happens to this craft, as to others, that the utilitarian practice, though it professes to avoid ornament.*
+
+<table><thead>
+<tr>
+<th style="text-align: center">GT+Vocoder </th>
+<th style="text-align: center">TransformerTTS</th>
+<th style="text-align: center">Speech-T</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/gt4.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/tt4.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/st4.wav" autoplay/></audio></td>
+</tr>
+</tbody></table>
+
+
+*in reading the modern figures the eyes must be strained before the reader can have any reasonable assurance*
+
+<table><thead>
+<tr>
+<th style="text-align: center">GT+Vocoder </th>
+<th style="text-align: center">TransformerTTS</th>
+<th style="text-align: center">Speech-T</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/gt5.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/tt5.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/st5.wav" autoplay/></audio></td>
 </tr>
 </tbody></table>
 

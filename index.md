@@ -8,7 +8,23 @@ Neural Transducer (e.g., RNN-T) has been widely used in automatic speech recogni
 
 All of the audio samples use Parallel WaveGAN (PWG) as vocoder. 
 
-*Were the leaders in this luckless change, though our own Baskerville, who was at work some years before them, went much on the same lines.*
+*This is best furthered by the avoidance of irrational swellings and spiky projections, and by the using of careful purity of line.*
+
+<table><thead>
+<tr>
+<th style="text-align: center">GT+Vocoder </th>
+<th style="text-align: center">TransformerTTS</th>
+<th style="text-align: center">Speech-T</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/gt1.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/tt1.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/st1.wav" autoplay/></audio></td>
+</tr>
+</tbody></table>
+
+
+*This is best furthered by the avoidance of irrational swellings and spiky projections, and by the using of careful purity of line.*
 
 <table><thead>
 <tr>

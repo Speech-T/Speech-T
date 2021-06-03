@@ -23,9 +23,9 @@ All of the audio samples use Parallel WaveGAN (PWG) as vocoder.
 <th style="text-align: center">Speech-T</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><audio controls="controls" ><source src="../audio/fastspeech2/audio/gt_recording_2/0000000004.mp3" autoplay/></audio></td>
-<td style="text-align: center"><audio controls="controls" ><source src="../audio/fastspeech2/audio/gt_pwg_2/0000000004.mp3" autoplay/></audio></td>
-<td style="text-align: center"><audio controls="controls" ><source src="../audio/fastspeech2/audio/transtts_2/0000000004.mp3" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/gt1.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/tt1.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/st1.wav" autoplay/></audio></td>
 </tr>
 </tbody></table>
 

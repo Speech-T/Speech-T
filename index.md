@@ -102,3 +102,75 @@ All of the audio samples use Parallel WaveGAN (PWG) as vocoder.
 <td style="text-align: center"><audio controls="controls" ><source src="static/audio/st6.wav" autoplay/></audio></td>
 </tr>
 </tbody></table>
+
+
+## Robustness Test
+
+*You can call me directly at four two five seven zero three seven three four four or my cell four two five four four four seven four seven four or send me a meeting request with all the appropriate information .*
+
+<table><thead>
+<tr>
+<th style="text-align: center">TransformerTTS</th>
+<th style="text-align: center">Speech-T</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls" ><source src="static/robustness/tt6.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/robustness/st6.wav" autoplay/></audio></td>
+</tr>
+</tbody></table>
+
+
+*C colon backslash o one two f c p a r t y backslash d e v one two backslash oasys backslash legacy backslash web backslash HELP*
+
+<table><thead>
+<tr>
+<th style="text-align: center">TransformerTTS</th>
+<th style="text-align: center">Speech-T</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls" ><source src="static/robustness/tt2.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/robustness/st2.wav" autoplay/></audio></td>
+</tr>
+</tbody></table>
+
+
+*src backslash mapi backslash t n e f d e c dot c dot o l d backslash backslash m o z a r t f one backslash e x five*
+
+<table><thead>
+<tr>
+<th style="text-align: center">TransformerTTS</th>
+<th style="text-align: center">Speech-T</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls" ><source src="static/robustness/tt3.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/robustness/st3.wav" autoplay/></audio></td>
+</tr>
+</tbody></table>
+
+
+*copy backslash backslash j o h n f a n four backslash scratch backslash M i c r o s o f t dot S h a r e P o i n t dot*
+
+<table><thead>
+<tr>
+<th style="text-align: center">TransformerTTS</th>
+<th style="text-align: center">Speech-T</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls" ><source src="static/robustness/tt4.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/robustness/st4.wav" autoplay/></audio></td>
+</tr>
+</tbody></table>
+
+
+*zero zero zero zero zero zero zero zero two seven nine eight F three forty zero zero zero zero zero six four two eight zero one eight*
+
+<table><thead>
+<tr>
+<th style="text-align: center">TransformerTTS</th>
+<th style="text-align: center">Speech-T</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls" ><source src="static/robustness/tt6.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/robustness/st6.wav" autoplay/></audio></td>
+</tr>
+</tbody></table>

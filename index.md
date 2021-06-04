@@ -8,7 +8,7 @@ Neural Transducer (e.g., RNN-T) has been widely used in automatic speech recogni
 
 All of the audio samples use Parallel WaveGAN (PWG) as vocoder. 
 
-*This is best furthered by the avoidance of irrational swellings and spiky projections, and by the using of careful purity of line.*
+<!-- *This is best furthered by the avoidance of irrational swellings and spiky projections, and by the using of careful purity of line.*
 
 <table><thead>
 <tr>
@@ -21,7 +21,7 @@ All of the audio samples use Parallel WaveGAN (PWG) as vocoder.
 <td style="text-align: center"><audio controls="controls" ><source src="static/audio/tt1.wav" autoplay/></audio></td>
 <td style="text-align: center"><audio controls="controls" ><source src="static/audio/st1.wav" autoplay/></audio></td>
 </tr>
-</tbody></table>
+</tbody></table> -->
 
 
 *Even the Caslon type when enlarged shows great shortcomings in this respect.*
@@ -72,7 +72,7 @@ All of the audio samples use Parallel WaveGAN (PWG) as vocoder.
 </tbody></table>
 
 
-*in reading the modern figures the eyes must be strained before the reader can have any reasonable assurance*
+*in reading the modern figures the eyes must be strained before the reader can have any reasonable assurance.*
 
 <table><thead>
 <tr>
@@ -87,3 +87,18 @@ All of the audio samples use Parallel WaveGAN (PWG) as vocoder.
 </tr>
 </tbody></table>
 
+
+*One of the differences between the fine type and the utilitarian must probably be put down to a misapprehension of a commercial necessity.*
+
+<table><thead>
+<tr>
+<th style="text-align: center">GT+Vocoder </th>
+<th style="text-align: center">TransformerTTS</th>
+<th style="text-align: center">Speech-T</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/gt6.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/tt6.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/audio/st6.wav" autoplay/></audio></td>
+</tr>
+</tbody></table>

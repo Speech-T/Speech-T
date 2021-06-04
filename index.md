@@ -114,27 +114,13 @@ All of the audio samples use Parallel WaveGAN (PWG) as vocoder.
 <th style="text-align: center">Speech-T</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><audio controls="controls" ><source src="static/robustness/tt6.wav" autoplay/></audio></td>
-<td style="text-align: center"><audio controls="controls" ><source src="static/robustness/st6.wav" autoplay/></audio></td>
-</tr>
-</tbody></table>
-
-
-*C colon backslash o one two f c p a r t y backslash d e v one two backslash oasys backslash legacy backslash web backslash HELP*
-
-<table><thead>
-<tr>
-<th style="text-align: center">TransformerTTS</th>
-<th style="text-align: center">Speech-T</th>
-</tr></thead><tbody>
-<tr>
 <td style="text-align: center"><audio controls="controls" ><source src="static/robustness/tt2.wav" autoplay/></audio></td>
 <td style="text-align: center"><audio controls="controls" ><source src="static/robustness/st2.wav" autoplay/></audio></td>
 </tr>
 </tbody></table>
 
 
-*src backslash mapi backslash t n e f d e c dot c dot o l d backslash backslash m o z a r t f one backslash e x five*
+*C colon backslash o one two f c p a r t y backslash d e v one two backslash oasys backslash legacy backslash web backslash HELP*
 
 <table><thead>
 <tr>
@@ -148,7 +134,7 @@ All of the audio samples use Parallel WaveGAN (PWG) as vocoder.
 </tbody></table>
 
 
-*copy backslash backslash j o h n f a n four backslash scratch backslash M i c r o s o f t dot S h a r e P o i n t dot*
+*src backslash mapi backslash t n e f d e c dot c dot o l d backslash backslash m o z a r t f one backslash e x five*
 
 <table><thead>
 <tr>
@@ -158,6 +144,20 @@ All of the audio samples use Parallel WaveGAN (PWG) as vocoder.
 <tr>
 <td style="text-align: center"><audio controls="controls" ><source src="static/robustness/tt4.wav" autoplay/></audio></td>
 <td style="text-align: center"><audio controls="controls" ><source src="static/robustness/st4.wav" autoplay/></audio></td>
+</tr>
+</tbody></table>
+
+
+*copy backslash backslash j o h n f a n four backslash scratch backslash M i c r o s o f t dot S h a r e P o i n t dot*
+
+<table><thead>
+<tr>
+<th style="text-align: center">TransformerTTS</th>
+<th style="text-align: center">Speech-T</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align: center"><audio controls="controls" ><source src="static/robustness/tt5.wav" autoplay/></audio></td>
+<td style="text-align: center"><audio controls="controls" ><source src="static/robustness/st5.wav" autoplay/></audio></td>
 </tr>
 </tbody></table>
 
